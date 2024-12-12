@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/roab_lab/lino_ws/devel/lib/python3/dist-packages",
+        "/home/roab_lab/ros_motion_planning-master/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/roab_lab/lino_ws/devel/lib/python3/dist-packages",
+        "/home/roab_lab/ros_motion_planning-master/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "files.associations": {
+        "random": "cpp"
+    },
+    "cmake.sourceDirectory": "/home/roab_lab/lino_ws/src/eband_local_planner"
+}

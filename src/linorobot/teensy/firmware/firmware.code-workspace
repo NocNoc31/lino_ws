@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Downloads/ros1_teenssy/linorobot-master/teensy/firmware"
+		},
+		{
+			"name": "firmware",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

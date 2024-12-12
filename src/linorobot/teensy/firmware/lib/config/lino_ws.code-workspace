@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../.."
+		},
+		{
+			"name": "firmware",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"python.autoComplete.extraPaths": [
+			"/home/roab_lab/lino_ws/devel/lib/python3/dist-packages",
+			"/opt/ros/noetic/lib/python3/dist-packages"
+		],
+		"python.analysis.extraPaths": [
+			"/home/roab_lab/lino_ws/devel/lib/python3/dist-packages",
+			"/opt/ros/noetic/lib/python3/dist-packages"
+		]
+	}
+}
